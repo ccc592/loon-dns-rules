@@ -1,0 +1,23 @@
+# AI and DNS diagnostics must retain the main configuration's foreign DNS.
+openai.com
+chatgpt.com
+oaistatic.com
+oaiusercontent.com
+anthropic.com
+claude.ai
+claude.com
+gemini.google.com
+aistudio.google.com
+generativelanguage.googleapis.com
+ai.google.dev
+bard.google.com
+copilot.microsoft.com
+copilot.cloud.microsoft
+x.ai
+grok.com
+perplexity.ai
+api4.ipify.org
+browserleaks.com
+bash.ws
+cloudflare-dns.com
+dns.google
