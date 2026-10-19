@@ -7,7 +7,7 @@
   "excluded_cn_suffix_count": 1,
   "cn_suffix_count": 110445,
   "host_mapping_count": 220890,
-  "plugin_sha256": "1bb85af5dee0aa8446564db6b8a4379fb9387169daa50f6ba84432ae16a9da58",
+  "plugin_sha256": "8776b66f1c05fba34a7b15b2400b2a3c7dd9e0e5be6ab04709604dd24d5f0deb",
   "plugin_size_bytes": 11189050,
   "domestic_samples_checked": [
     "baidu.com",
