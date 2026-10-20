@@ -2,9 +2,9 @@
 #!desc = 完整 CN 域名使用阿里 DoH；其他域名沿用主配置 DNS。只含 Host，不修改规则或插件。
 #!author = ccc592
 #!homepage = https://github.com/ccc592/loon-dns-rules
-#!date = 2026-10-19
+#!date = 2026-10-20
 # Source: https://github.com/MetaCubeX/meta-rules-dat
-# Source revision: 1852a7d214920d77c753293c49eb26a996e52081
+# Source revision: 7c782352439ce9ccaba53519ec816f82f52b6285
 # License: GPL-3.0; see LICENSE and README.md for attribution.
 
 [Host]
