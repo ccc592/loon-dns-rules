@@ -1,13 +1,13 @@
 {
   "upstream_repository": "MetaCubeX/meta-rules-dat",
-  "upstream_revision": "5b62abd872efea28a44ee1ec0dc3869cff27c739",
+  "upstream_revision": "c8c1a27018377ec8a7f60c320efb3023681909eb",
   "upstream_path": "geo/geosite/cn.list",
   "source_sha256": "674705eeb0050036f8855586993bc6fe81fe6e1be56d77cea4b6289c14580c84",
   "source_cn_suffix_count": 110446,
   "excluded_cn_suffix_count": 1,
   "cn_suffix_count": 110445,
   "host_mapping_count": 220890,
-  "plugin_sha256": "b0840087c37643b0e454c83bcefbcd2ee2679ebcd6b5bc71337943cf67b60a25",
+  "plugin_sha256": "177fb8b584c14ceb652901a1e2d2fc81118073b447abd89e09543caac6b1be05",
   "plugin_size_bytes": 11189050,
   "domestic_samples_checked": [
     "baidu.com",
