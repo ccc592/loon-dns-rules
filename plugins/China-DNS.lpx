@@ -2,9 +2,9 @@
 #!desc = 完整 CN 域名使用阿里 DoH；其他域名沿用主配置 DNS。只含 Host，不修改规则或插件。
 #!author = ccc592
 #!homepage = https://github.com/ccc592/loon-dns-rules
-#!date = 2026-10-24
+#!date = 2026-10-25
 # Source: https://github.com/MetaCubeX/meta-rules-dat
-# Source revision: c8c1a27018377ec8a7f60c320efb3023681909eb
+# Source revision: 45a9c7f0489f8b1c7c3ae09192e2a6caa369a265
 # License: GPL-3.0; see LICENSE and README.md for attribution.
 
 [Host]
@@ -171376,6 +171376,10 @@ sztz.org = server:https://223.5.5.5/dns-query
 *.sztz.org = server:https://223.5.5.5/dns-query
 sztzzs.com = server:https://223.5.5.5/dns-query
 *.sztzzs.com = server:https://223.5.5.5/dns-query
+szu.app = server:https://223.5.5.5/dns-query
+*.szu.app = server:https://223.5.5.5/dns-query
+szu.moe = server:https://223.5.5.5/dns-query
+*.szu.moe = server:https://223.5.5.5/dns-query
 szuavia.org = server:https://223.5.5.5/dns-query
 *.szuavia.org = server:https://223.5.5.5/dns-query
 szudad.com = server:https://223.5.5.5/dns-query
