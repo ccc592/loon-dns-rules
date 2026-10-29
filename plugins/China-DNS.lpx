@@ -2,9 +2,9 @@
 #!desc = 完整 CN 域名使用阿里 DoH；其他域名沿用主配置 DNS。只含 Host，不修改规则或插件。
 #!author = ccc592
 #!homepage = https://github.com/ccc592/loon-dns-rules
-#!date = 2026-10-28
+#!date = 2026-10-29
 # Source: https://github.com/MetaCubeX/meta-rules-dat
-# Source revision: 251f53ed936ccefc5ed6407b0b85a06878e3dbe1
+# Source revision: 9f2b7462c7508ad85a1137e70d502b783c89794d
 # License: GPL-3.0; see LICENSE and README.md for attribution.
 
 [Host]
@@ -67520,6 +67520,8 @@ fillseo.com = server:https://223.5.5.5/dns-query
 *.fillseo.com = server:https://223.5.5.5/dns-query
 film-yuelongchina.com = server:https://223.5.5.5/dns-query
 *.film-yuelongchina.com = server:https://223.5.5.5/dns-query
+filmorigin.com = server:https://223.5.5.5/dns-query
+*.filmorigin.com = server:https://223.5.5.5/dns-query
 fily.fun = server:https://223.5.5.5/dns-query
 *.fily.fun = server:https://223.5.5.5/dns-query
 fim34s.com = server:https://223.5.5.5/dns-query
@@ -112544,6 +112546,8 @@ kakashuzi.net = server:https://223.5.5.5/dns-query
 *.kakashuzi.net = server:https://223.5.5.5/dns-query
 kakatx.com = server:https://223.5.5.5/dns-query
 *.kakatx.com = server:https://223.5.5.5/dns-query
+kakaxing.com = server:https://223.5.5.5/dns-query
+*.kakaxing.com = server:https://223.5.5.5/dns-query
 kakayuy.net = server:https://223.5.5.5/dns-query
 *.kakayuy.net = server:https://223.5.5.5/dns-query
 kaken-china.com = server:https://223.5.5.5/dns-query
